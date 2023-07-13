@@ -1,9 +1,9 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: Screaming Ergoat Wine Club
+description: Screaming ERGoats are one of a kind NFTs exclusive to the Ergo Blockchain. Each Screaming Goat is unique, hand drawn and built from over 200 different parts. We strive to make positive impacts to the world by donating real life goats to those in need through Heifer International, a reputable and impactful non-profit organization.
+image: https://ipfs.io/ipfs/QmQ3yKHmMJoqtrucHpG4grzZ123WCRxLWpDcfxq3JGMrdX/00001.png
 mintAddresses:
-  - 
+  - 9hCqMZy97mi5qooyKzEWSJB4dcdCBoY4FRykNrcNy3wqcgZ4ayH
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/ERGoatWineClub
     icon: fa-brands fa-twitter fa-fw
