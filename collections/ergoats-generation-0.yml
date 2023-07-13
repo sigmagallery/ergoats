@@ -1,15 +1,4 @@
 nfts:
-- tokenId: 1fa28399d7d79ab8214129018b05d60e7239cb87bd491a77cb8b2935576e2578
-  name: 'Ergoats #00001'
-  description: >-
-    {"721":{"ergoat-00001":{"index":"00001","generation":0,"background":"Mead
-    Hall","back_accessory":"Medieval
-    Sword","body":"Silver","clothes":"None","mouth":"Silver Teeth Silver
-    Tongue","eyes":"Scarred Eye","wield":"Wooden Beer Stein","accessory":"Brown
-    Mutton Chops and Goatee","head":"Armored Mask Silver
-    Horns","earring":"MultiHoops"}}}
-  imageUrl: >-
-    https://ipfs.io/ipfs/QmQ3yKHmMJoqtrucHpG4grzZ123WCRxLWpDcfxq3JGMrdX/00001.png
 - tokenId: 79a1ce8633f5fd69bd443f4823ea4c51ed193922518a067435eb2468ed879b78
   name: 'Ergoats #00001'
   description: >-
