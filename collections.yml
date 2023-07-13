@@ -1,5 +1,5 @@
 collections:
-- label: Ergoats Gen 0
-  data: ergoats-generation-0.yml
-- label: Ergoats Gen 1
-  data: ergoats-generation-1.yml
+- label: Generation 0
+  data: generation-0.yml
+- label: Generation 1
+  data: generation-1.yml
