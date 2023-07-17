@@ -1,5 +1,7 @@
 collections:
-- label: Generation 0
-  data: generation-0.yml
-- label: Generation 1
-  data: generation-1.yml
+- label: Ergoats Generation 0
+  data: ergoatsgeneration-0.yml
+  image: https://ipfs.io/ipfs/QmeogtSBFDDGZabVJVSMvjs9ysFk9JR9S6m5XV18KHUDeZ/00294.png
+- label: Ergoats Generation 1
+  data: ergoatsgeneration-1.yml
+  image: http://ipfs.io/ipfs/QmXKNkcQmZKCQSpYiTGhZ9bhu3CW7BQteL9Kgmjr46Q5Dm
