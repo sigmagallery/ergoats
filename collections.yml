@@ -3,5 +3,5 @@ collections:
   data: ergoatsgeneration-0.yml
   image: https://img1.sigma.gallery/ergoats/ergoats-generation-0/4b2115cf1efbbd9e75e9522d13b97d40a33b9c970f2c14f500b84569e17e1b99.webp
 - label: Ergoats Generation 1
-  data: ergoatsgeneration-1.yml
+  data: ergoatsgeneration1.yml
   image: https://ipfs.io/ipfs/QmboiQHgj3U29duSkJXA2jw5mTFEwznRrsLS6LHsGwnkmN
